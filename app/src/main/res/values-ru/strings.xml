@@ -221,7 +221,7 @@
     <string name="pesdk_adjustments_button_clarityTool">Чёткость</string>
     <string name="pesdk_adjustments_button_gammaTool">Гамма</string>
     <string name="pesdk_adjustments_button_blacksTool">Затемнение</string>
-    <string name="pesdk_adjustments_button_whitesTool">Высветление</string>
+    <string name="pesdk_adjustments_button_whitesTool">Осветление</string>
     <string name="pesdk_adjustments_button_temperatureTool">Температура</string>
     <string name="pesdk_adjustments_button_sharpnessTool">Резкость</string>
     <string name="pesdk_adjustments_button_reset">Сброс</string>
